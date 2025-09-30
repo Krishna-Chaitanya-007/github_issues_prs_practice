@@ -17,3 +17,7 @@ img {
     display: flex;
     justify-content: space-around;
 }
+
+.inverted{
+    flex-direction: row-reverse;
+}
