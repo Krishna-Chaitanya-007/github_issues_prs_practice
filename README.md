@@ -2,6 +2,8 @@
 
 This repository contains the source code for a website listing interesting facts about CYF's host cities. You can use it to practise creating issues and pull requests, and to study the examples which are already here.
 
+You can see the deployed site [here](https://codeyourfuture.github.io/github_issues_prs_practice/).
+
 ## Repository Contents
 
 - `README.md` - A summary of the repository's purpose and the file it contains.
